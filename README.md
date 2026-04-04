@@ -1,6 +1,6 @@
-# Reya Patel - UI & UX Designer Portfolio
+# Keya Patel - UI & UX Designer Portfolio
 
-A beautiful, responsive single-page portfolio website for UI/UX and graphics designer Reya Patel.
+A beautiful, responsive single-page portfolio website for UI/UX and graphics designer Keya Patel.
 
 ## 📁 Project Structure
 
